@@ -10,11 +10,10 @@ targets:
 libraries:
   gcc: stable
   libgo: stable
-  pthread-embedded: stable
+  musl: stable
   lwip: stable
   compiler-rt: stable
   libcxx: stable
   libcxxabi: stable
   libunwind: stable
   libucontext: stable
-  newlib: stable
